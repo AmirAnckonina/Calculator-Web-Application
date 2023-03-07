@@ -1,0 +1,1 @@
+start ./CalculatorWebApi/prog/Debug/net6.0/CalculatorWebApi.exe
